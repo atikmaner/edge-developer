@@ -29,7 +29,7 @@ WebView2 is available for the following frameworks (or platforms) and programmin
 
 * [Win32/C++](/microsoft-edge/webview2/reference/win32/index)
 
-* [JavaScript](/microsoft-edge/webview2/reference/javascript/overview)
+* [JavaScript](/microsoft-edge/webview2/reference/javascript/index)
 
 <!-- ====================================================================== -->
 ## See also
