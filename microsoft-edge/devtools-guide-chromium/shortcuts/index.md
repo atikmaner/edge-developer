@@ -116,7 +116,7 @@ The following keyboard shortcuts are available in most DevTools panels.
 | Select the call frame below / above the currently selected frame | `Ctrl`+`.` / `Ctrl`+`,` | `Ctrl`+`.` / `Ctrl`+`,` |
 | Save changes to local modifications | `Ctrl`+`S` | `Command`+`S` |
 | Save all changes | `Ctrl`+`Alt`+`S` | `Command`+`Option`+`S` |
-| Navigate to line | `Ctrl`+`G` | `Ctrl`+`G` |
+| Navigate to line | `Ctrl`+`Shift`+'F9' | `Ctrl`+`G` |
 | Jump to a line number of the currently open file | Press `Ctrl`+`O` to open the [Command Menu](../command-menu/index.md), type `:` followed by the line number, then press `Enter` | Press `Command`+`O` to open the [Command Menu](../command-menu/index.md), type `:` followed by the line number, then press `Enter` |
 | Jump to a column of the currently open file (for example line 5, column 9) | Press `Ctrl`+`O` to open the [Command Menu](../command-menu/index.md), type `:`, then the line number, then another `:`, then the column number, then press `Enter` | Press `Command`+`O` to open the [Command Menu](../command-menu/index.md), type `:`, then the line number, then another `:`, then the column number, then press `Enter` |
 | Navigate to a function declaration, if the current file is HTML or a script.  <br />  Navigate to a rule set, if the current file is a stylesheet.  | Press `Ctrl`+`Shift`+`O`, then type in the name of the declaration / rule set, or select it from the list of options | press `Command`+`Shift`+`O`, then type in the name of the declaration / rule set, or select it from the list of options |
